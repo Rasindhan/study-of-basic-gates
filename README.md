@@ -87,7 +87,7 @@ endmodule
  RegisterNumber: 212224230222
  
 **Logic symbol & Truthtable**
-![image](https://github.com/user-attachments/assets/3c1b7d66-abe5-4b3a-a308-1c2180bb4cf0)
+![logic-gates](https://github.com/user-attachments/assets/d3d8c10e-b492-4d23-a2f6-6c3b14637d7a)
 
 **RTL realization Output:** 
 ![Screenshot 2025-03-21 140912](https://github.com/user-attachments/assets/ec78e625-2560-4ee3-8ccd-52622f0a90a3)
